@@ -21,5 +21,5 @@ jobs:
           git config user.name kencbowman
           git config user.email kencbowman@yahoo.com
           git add .
-          gti commit -m "Modified Feed"
+          git commit -m "Modified Feed"
           git push
